@@ -2,5 +2,5 @@
 session_start();
 if(!$_SESSION['user']){
   header('Location: login');
-  die;
+  die('Please login');
 }
