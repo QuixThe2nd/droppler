@@ -24,7 +24,7 @@
     </style>
   </head>
   <body class="text-center">
-    <form class="form-signin" action="api/login" method="POST">
+    <form class="form-signin" action="api/register" method="POST">
       <img class="mb-4" src="/assets/images/logo.png" alt="Logo" width="72" height="72">
       <h1 class="h3 mb-3 font-weight-normal">Create Account</h1>
       <label for="inputEmail" class="sr-only">Email address</label>
