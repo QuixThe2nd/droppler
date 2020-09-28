@@ -7,6 +7,7 @@
     <meta name="author" content="Parsa Yazdani (Quix)">
     <title>Droppler</title>
     <link href="https://getbootstrap.com/docs/4.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link href="https://getbootstrap.com/docs/4.5/examples/sign-in/signin.css" rel="stylesheet" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <style>
       .bd-placeholder-img {
         font-size: 1.125rem;
